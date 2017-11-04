@@ -1,5 +1,5 @@
 import colors
-
+import main
 
 def showall():
     print ("""
@@ -11,4 +11,6 @@ def showall():
                    {}shell - create a shell in php 5{}
 
                         other are creating soon """.format(colors.green,colors.red,colors.cyan))
+    
+    
     
